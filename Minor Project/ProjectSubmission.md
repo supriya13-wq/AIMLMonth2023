@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   23482
 
-Student Name      :   < Your good name >
+Student Name      :   Vidushi bhardwaj
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   admission criteria in nit and iit
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   https://colab.research.google.com/drive/1MUf2yneh0GuPz65KGOXoPLOecaZJRGxd?usp=sharing
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   i learnt to categorise data and find opening and clsing ranks of multiple datasets. accuracy was needed
